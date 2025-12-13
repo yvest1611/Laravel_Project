@@ -17,6 +17,7 @@ The main goal of this portfolio is to:
 * **HTML** – for structuring the web pages
 * **CSS** – for styling and layout
 * **JavaScript** – for basic interactivity
+* **PHP** – for server-side scripting and backend logic
 * **GitHub Pages** – for hosting the website
 
 ## How to View the Portfolio
